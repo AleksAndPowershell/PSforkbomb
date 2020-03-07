@@ -1,2 +1,2 @@
 # PSFB2 & PSFB3
-PSFB is short for PowerShell ForkBomb. A forkbomb is a DoS attack in the form of a software which is remotely or directly deployed on the victims mahcine. It is coded for windows 10. PSFB3 quietly detonates while PSFB2 taunts the victim before deploying. 
+PSFB is short for PowerShell ForkBomb. A forkbomb is a DoS attack in the form of a software which is remotely or directly deployed on the victims mahcine. It is coded for windows 10. PSFB3 quietly detonates while PSFB2 taunts the victim before deploying. The software passes all basic anti-virus scans as it is small and exists only using pre downloaded powershell commands. Be cautious when handling as it will detonate when double clicked and you wil not know until your computer crashes.
